@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     // TODO: add print message with location of database environment
 
     // TODO: prompt user for a SQL> query
-    
+
     // TODO: after parsing, print the message parsed
 
     // TODO: Add support for create table

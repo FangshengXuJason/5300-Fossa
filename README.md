@@ -1,10 +1,12 @@
+# Fangsheng's Forked Version
+
 # 5300-Fossa
 
 ## Milestone 1
 
 ### TODOs:
 
-- [X] Use quit to exit
+- [x] Use quit to exit
 - [ ] Add print message with location of database environment
 - [ ] Prompt user for a SQL> query
 - [ ] After parsing, print the message parsed
